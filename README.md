@@ -15,6 +15,7 @@ Her samles alle de spennende prosjektene, ideene og ressursene vi har jobbet med
 1. **Opprett en ny mappe**: Når du starter et nytt prosjekt eller ønsker å dele noe, opprett en ny mappe med ditt navn (hvis det ikke allerede eksisterer) og legg til prosjektene dine der.
 2. **Gi tilbakemelding**: Se på dine klassekameratters prosjekter, gi positiv tilbakemelding, og hvis du har forslag til forbedringer, ikke nøl med å dele.
 3. **Hold det positivt**: Dette er et sted for læring og vekst. Vi oppfordrer til et positivt og støttende miljø hvor alle føler seg velkomne til å dele og lære.
+4. **Vær forsiktig med hva du endrer**: Andre kan ha arbeidet hardt med sin kode, så ikke endre andre sin kode uten å ha snakke med dem om det.
 
 ## 🌈 Husk:
 
