@@ -1,0 +1,20 @@
+img{
+    border-style: solid;
+    border-color: darkred; 
+     margin: 20px 615px 20px 615px; 
+  }
+  
+  h1 {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    padding: 5px;
+    background-color: white;
+    border: 3px solid darkred;
+    margin: 50px 590px 25px 590px; 
+    font-family: "Cursive", Brush Script MT;
+  }
+  
+  h2{
+    margin: 20px 550px 20px 550px;
+  }
